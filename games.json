@@ -1,0 +1,19 @@
+{
+  "format": "dsh-games-feed",
+  "version": 1,
+  "name": "whsihad 的小游戏",
+  "author": "whsihad",
+  "updatedAt": "2026-11-24T12:00:44.298Z",
+  "games": [
+    {
+      "slug": "xingcao-xiaolieren",
+      "title": "星草小猎人",
+      "url": "xingcao-xiaolieren/",
+      "cover": "xingcao-xiaolieren/cover.jpg",
+      "dimension": "2d",
+      "orientation": "portrait",
+      "publishedAt": "2026-11-24T12:00:44.298Z"
+    }
+  ],
+  "wall": null
+}
